@@ -190,6 +190,7 @@ section .form-section{
     border-radius: 10px;
     padding: 21px 50px;
     margin-top: 20px;
+    color: #fff;
 }
 .subscribe-text{
     color: #fff;
