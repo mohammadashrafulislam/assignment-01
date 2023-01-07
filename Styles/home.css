@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    font-family: Work Sans;
+}
+/* Header Section Style */
+.Header-section{
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    padding-bottom: 80px;
+}
+.Header-title{
+    color: #fff;
+    font-size: 65px;
+    font-weight: 700;
+    padding: 200px 200px 20px 700px;
+   
+
+}
+.header-description{
+    color: #fff;
+    font-size: 16px;
+    padding: 0 200px 20px 700px;
+}
+.primary-btn{
+    background-color: #fff;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 0;
+    margin-right: 200px;
+    
+}
+
+/* About Section Style */
+.about-section{
+    display: flex;
+    padding: 100px 200px 0 200px;
+    gap: 30px;
+}
+.about-iteam{
+
+}
+.about-image{
+    width: 569px;
+    height: 600px;
+}
+.Section-Header{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 100px;
+}
+.about-description{
+    font-size: 16px;
+    padding-top: 20px;
+}
+.fa-light fa-check{
+    color: #16D887;
+}
